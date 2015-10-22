@@ -10,7 +10,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello there!");
+            Console.WriteLine("Different console message");
         }
     }
 }
